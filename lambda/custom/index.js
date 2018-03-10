@@ -29,7 +29,7 @@ const STOP_MESSAGE = 'Goodbye!';
 //TODO: Replace this data with your own.  You can find translations of this data at http://github.com/alexa/skill-sample-node-js-fact/lambda/data
 //=========================================================================================================================================
 const data = [
-    'A year on Mercury is just 88 days long.',
+    'The GDP of Nigeria is $481.1 billion.',
     'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
     'Venus rotates counter-clockwise, possibly because of a collision in the past with an asteroid.',
     'On Mars, the Sun appears about half the size as it does on Earth.',
